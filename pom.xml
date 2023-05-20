@@ -42,7 +42,7 @@
                             <shadedClassifierName>fat-tests</shadedClassifierName>
                             <transformers>
                                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>BookManagementProgramming</mainClass>
+                                    <mainClass>BookManagementPrograming</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>
